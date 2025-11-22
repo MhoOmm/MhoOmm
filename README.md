@@ -10,8 +10,6 @@
   <a href="https://leetcode.com/u/Mhoo/">LeetCode</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MrStanDu33/spotify-github-profile/master/imgs/wave.svg" width="100%" />
-
 
 
 
