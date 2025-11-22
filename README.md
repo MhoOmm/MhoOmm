@@ -10,20 +10,7 @@
   <a href="https://leetcode.com/u/Mhoo/">LeetCode</a>
 </p>
 
----
 
-## 🎧 Now Playing
-
-<p align="left">
-  <img 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=2tmtszuvjxoscqs5uld8uv0zv&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true" 
-    height="130"
-    alt="Spotify Now Playing"
-  />
-</p>
-
-
----
 
 ## 🧩 About Me 
 
