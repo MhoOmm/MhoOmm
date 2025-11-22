@@ -25,7 +25,7 @@
 
 ---
 
-## 🧩 About Me (JS Object Vibes)
+## 🧩 About Me 
 
 ```js
 const Omm = {
