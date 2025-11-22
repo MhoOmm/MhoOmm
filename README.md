@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Omm aka Mho — Crafting code, Producing music </h1>
+<h1 align="center"> Hey, I'm Omm — Crafting code, Producing music </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&pause=1200&color=9B5CFF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Web+Dev+%7C+APIs+%7C+Cloud;Coding+to+EDM+drops+%26+808s;Energy+mode%3A+ON;Building+clean+%26+scalable+systems" />
