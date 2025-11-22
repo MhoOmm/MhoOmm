@@ -16,11 +16,12 @@
 
 <p align="left">
   <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=2tmtszuvjxoscqs5uld8uv0zv&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true" 
+    src="https://spotify-github-profile.vercel.app/api/view?uid=2tmtszuvjxoscqs5uld8uv0zv&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true" 
     height="130"
     alt="Spotify Now Playing"
   />
 </p>
+
 
 ---
 
@@ -52,7 +53,7 @@ const Omm = {
 ```
 
 
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
 📊 Stats Zone
 <p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MhoOmm&show_icons=true&theme=radical&hide_border=true&bg_color=0,0A0A0A,000000&title_color=9B5CFF&icon_color=9B5CFF" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MhoOmm&theme=dark&hide_border=true&background=000000&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF" /> </p> <p> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhoOmm&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9B5CFF" /> <img height="165" src="https://leetcard.jacoblin.cool/Mhoo?ext=heatmap&theme=dark" /> </p>
 <details>
