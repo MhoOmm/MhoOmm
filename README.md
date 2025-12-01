@@ -10,9 +10,6 @@
   <a href="https://leetcode.com/u/Mhoo/">LeetCode</a>
 </p>
 
-
-
-
 ## 🧩 About Me 
 
 ```js
@@ -36,22 +33,11 @@ const Omm = {
     music: "hip-hop, edm, retro-rock",
     reading: "system design, dev culture"
   },
-  challenge: "Currently on a #100DaysOfCode journey focusing on Leetcode + WebDev + Devops","
+  challenge: "Currently on a #365 DaysOfCode journey focusing on Leetcode + WebDev + ML",
 };
 ```
 
-
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
+🧠 Languages I Code In
+<p align="left"> <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=FF6F00" /> </p> <p align="left"> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
 📊 Stats Zone
-<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MhoOmm&show_icons=true&theme=radical&hide_border=true&bg_color=0,0A0A0A,000000&title_color=9B5CFF&icon_color=9B5CFF" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MhoOmm&theme=dark&hide_border=true&background=000000&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF" /> </p> <p> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhoOmm&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9B5CFF" /> <img height="165" src="https://leetcard.jacoblin.cool/Mhoo?ext=heatmap&theme=dark" /> </p>
-<details>
-  <summary>🕹️ Secret Console — Open?</summary>
-
-  <pre>
-init gamer_mode --theme "dark-purple" --fps "uncapped"
-
-alias deploy="git push origin main && echo 'gg wp'"
-
-echo "hydrate + chill + commit"
-  </pre>
-</details>
+<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MhoOmm&show_icons=true&theme=radical&hide_border=true&bg_color=0,0A0A0A,000000&title_color=9B5CFF&icon_color=9B5CFF" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MhoOmm&theme=dark&hide_border=true&background=000000&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF" /> </p> <p> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhoOmm&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9B5CFF" /> <img height="165" src="https://leetcard.jacoblin.cool/Mhoo?ext=heatmap&theme=dark" /> </p> <details> <summary>🕹️ Secret Console — Open?</summary> <pre> init gamer_mode --theme "dark-purple" --fps "uncapped" alias deploy="git push origin main && echo 'gg wp'" echo "hydrate + chill + commit" </pre> </details> 
