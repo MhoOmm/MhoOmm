@@ -40,6 +40,7 @@ const Omm = {
   challenge:
     "Currently on a #365DaysOfCode journey focusing on LeetCode + WebDev + ML"
 };
+```
 <p align="left"> <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=FF6F00" /> </p> <p align="left"> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
 
 
