@@ -41,7 +41,47 @@ const Omm = {
     "Currently on a #365DaysOfCode journey focusing on LeetCode + WebDev + ML"
 };
 ```
-<p align="left"> <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=FF6F00" /> </p> <p align="left"> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" /> <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/WebRTC-111111?style=for-the-badge&logo=webrtc&logoColor=25D366" /> <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" /> </p>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
+
+<p align="left">
+  <!-- Frontend / Frameworks / Libraries -->
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+</p>
+
+<p align="left">
+  <!-- Backend / Databases / Tools -->
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=json-web-tokens&logoColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+<p align="left">
+  <!-- Deployment / Cloud / Design Tools -->
+  <img src="https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=00CFFF" />
+  <img src="https://img.shields.io/badge/Cloudinary-111111?style=for-the-badge&logo=cloudinary&logoColor=4285F4" />
+</p>
+
+<p align="left">
+  <!-- Data Science / ML -->
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=11557C" />
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Anaconda-111111?style=for-the-badge&logo=anaconda&logoColor=44A833" />
+</p>
+
+
 
 
 📊 Stats Zone
