@@ -49,7 +49,7 @@ const omm = {
   seeking        : "Summer 2026 internships → SWE / Data Science / ML",
 
   offDuty     : {
-    music     : ["EDM", "hip-hop", "retro-rock"],   // fuel for 3am sessions
+    music     : ["EDM", "hip-hop", "retro-rock"],
     gaming    : ["souls-like", "open-world", "FPS"],
   },
 
