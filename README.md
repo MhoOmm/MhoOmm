@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║              hello world, I'm                         ║
-║         ██████╗ ███╗   ███╗███╗   ███╗               ║
-║        ██╔═══██╗████╗ ████║████╗ ████║               ║
-║        ██║   ██║██╔████╔██║██╔████╔██║               ║
-║        ██║   ██║██║╚██╔╝██║██║╚██╔╝██║               ║
-║        ╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║               ║
-║         ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝               ║
-╚═══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                     hello world, I'm                             ║
+║  ███╗   ███╗██╗  ██╗ ██████╗                                    ║
+║  ████╗ ████║██║  ██║██╔═══██╗                                   ║
+║  ██╔████╔██║███████║██║   ██║                                   ║
+║  ██║╚██╔╝██║██╔══██║██║   ██║                                   ║
+║  ██║ ╚═╝ ██║██║  ██║╚██████╔╝                                   ║
+║  ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝                                    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+ML+Practitioner;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems;RoBERTa+%7C+LSTM+%7C+NLP+Pipelines;Building+Scalable%2C+Fault-Tolerant+Systems;#365DaysOfCode+%E2%86%92+Still+going" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+ML+PractitionerBuilding+Scalable%2C+Fault-Tolerant+Systems;#365DaysOfCode+%E2%86%92+Still+going" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omm-tripathi-090762365/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MhoOmm)
@@ -44,8 +44,6 @@ const omm = {
     models    : ["RoBERTa", "MobileNetV2", "LSTM", "Keras", "TensorFlow"],
     libraries : ["scikit-learn", "NLTK", "NumPy", "Pandas", "HuggingFace APIs"],
   },
-
-  architecture: ["microservices", "event-driven", "real-time pipelines"],
 
   currentMission : "#365DaysOfCode — LeetCode + WebDev + ML Research",
   seeking        : "Summer 2026 internships → SWE / Data Science / ML",
@@ -88,6 +86,7 @@ const omm = {
 
 **ML / AI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -103,47 +102,15 @@ const omm = {
 
 ---
 
-## 🚀 Shipped Projects
+## 🏆 Achievements
 
-### 🥇 Pramaan — Misinformation Detection Suite
-> *Previously: No Fake Samachar — **1st place @ Konverge Hackathon***
-
-A distributed multi-modal detection system tackling fake news, deepfakes, phishing & AI-generated content across **4 data modalities in a unified pipeline**.
-
-- **RoBERTa** for text classification → **96% accuracy**
-- **MobileNetV2** for face-image deepfake detection → **95% accuracy**
-- **HuggingFace APIs** for phishing + scam detection → **92–94% accuracy**
-- Community-driven karma-weighted credibility scoring engine
-
----
-
-### 🧩 Mint — Student Mentor Platform
-
-Role-based full-stack platform centralising academic communication, grievance handling & leave management.
-
-- **WebSockets + WebRTC** real-time comm & geolocation for **100+ concurrent users**
-- MongoDB query latency optimised to **~200ms** with JWT-based RBAC
-- **2 AI chatbots** with session isolation serving **100+ daily interactions**
-
----
-
-### 🧠 SentiChat — Campus Sentiment Engine
-
-LSTM deep learning pipeline for anonymous campus mental health analytics.
-
-- Multi-class **sentiment** + **toxicity detection** across 6 categories
-- Fault-tolerant backend for **100+ anonymous concurrent users** with zero identity leakage
-- Real-time admin dashboard for institutional decision-making
-
----
-
-### ⚡ FuncVerse — Online Coding Judge
-
-LeetCode-style platform with AI-assisted learning.
-
-- **Judge0** containerised code execution, **95% test case coverage**
-- 2-level RBAC + AI debugging hints, solution explanations, smart hints
-- Scaled language support to 4 programming languages
+| | |
+|---|---|
+| 🥇 **1st Place — Konverge Hackathon** | Built *No Fake Samachar* (now Pramaan), a multi-modal misinformation detection suite. Judged by Kinetex Lab & K-1000. |
+| 🎓 **Full Stack Web Dev — IIT Kanpur** | Intensive training at EICT Academy covering React, Node, Express, MongoDB & production deployment. |
+| 📈 **CGPA 9.34 @ KIIT** | Maintaining top academic performance alongside active open-source building & hackathon participation. |
+| ⚡ **100+ Concurrent Users** | Shipped production-grade real-time systems (WebRTC + WebSockets) handling live concurrent load. |
+| 🤖 **96% ML Accuracy** | RoBERTa-based text classifier deployed in a live misinformation detection pipeline. |
 
 ---
 
@@ -158,15 +125,6 @@ LeetCode-style platform with AI-assisted learning.
 <img height="165" src="https://leetcard.jacoblin.cool/Mhoo?ext=heatmap&theme=dark" />
 
 </div>
-
----
-
-## 🎓 Certifications & Training
-
-- **Full Stack Web Development** — EICT Academy, IIT Kanpur
-- Business for Good: Fundamentals of Corporate Responsibility
-- Ethical Decision Making in the Tech Industry
-- Corporate Governance
 
 ---
 
