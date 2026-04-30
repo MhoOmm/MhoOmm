@@ -99,16 +99,18 @@ const omm = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
 ---
-
 ## 🏆 Achievements
 
-| | |
-|---|---|
-| 🥇 **1st Place — Konverge Hackathon** | Built *No Fake Samachar* (now Pramaan), a multi-modal misinformation detection suite. Judged by Kinetex Lab & K-1000. |
-| 🎓 **Full Stack Web Dev — IIT Kanpur** | Intensive training at EICT Academy covering React, Node, Express, MongoDB & production deployment. |
-| 📈 **CGPA 9.34 @ KIIT** | Maintaining top academic performance alongside active open-source building & hackathon participation. |
+- 🥇 **1st Place — Konverge Hackathon**  
+  Built **No Fake Samachar (Pramaan)**, a multi-modal misinformation detection suite using NLP & deep learning.  
+  *Judged by Kinetex Lab & K-1000.*
+
+- 🏅 **Smart India Hackathon (SIH) Nomination**  
+  Selected among **Top 50 teams at KIIT University** in the internal evaluation round.
+
+- 🎓 **Full Stack Web Development — EICT Academy,IIT Kanpur **  
+  Completed intensive training covering **React, Node.js, Express, MongoDB** and production deployment workflows.
 
 ---
 
