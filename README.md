@@ -109,8 +109,6 @@ const omm = {
 | 🥇 **1st Place — Konverge Hackathon** | Built *No Fake Samachar* (now Pramaan), a multi-modal misinformation detection suite. Judged by Kinetex Lab & K-1000. |
 | 🎓 **Full Stack Web Dev — IIT Kanpur** | Intensive training at EICT Academy covering React, Node, Express, MongoDB & production deployment. |
 | 📈 **CGPA 9.34 @ KIIT** | Maintaining top academic performance alongside active open-source building & hackathon participation. |
-| ⚡ **100+ Concurrent Users** | Shipped production-grade real-time systems (WebRTC + WebSockets) handling live concurrent load. |
-| 🤖 **96% ML Accuracy** | RoBERTa-based text classifier deployed in a live misinformation detection pipeline. |
 
 ---
 
