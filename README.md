@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+ML+PractitionerBuilding+Scalable%2C+Fault-Tolerant+Systems;#365DaysOfCode+%E2%86%92+Still+going" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+ML+Practitioner;Building+Scalable%2C+Fault-Tolerant+Systems;#365DaysOfCode+%E2%86%92+Still+going" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omm-tripathi-090762365/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MhoOmm)
