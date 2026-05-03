@@ -41,11 +41,11 @@ const omm = {
   },
 
   mlStack     : {
-    models    : ["RoBERTa", "MobileNetV2", "LSTM", "Keras", "TensorFlow"],
-    libraries : ["scikit-learn", "NLTK", "NumPy", "Pandas", "HuggingFace APIs"],
+    models    : ["RoBERTa", "MobileNetV2", "LSTM", "GPT-Fine Tuning"],
+    libraries : ["scikit-learn", "Keras", "TensorFlow", "NumPy", "Pandas", "PyTorch", "HuggingFace APIs"],
   },
 
-  currentMission : "#365DaysOfCode — LeetCode + WebDev + ML Research",
+  currentMission : "#365DaysOfCode — LeetCode + WebDev + AI-ML Practice",
   seeking        : "Summer 2026 internships → SWE / Data Science / ML",
 
   offDuty     : {
