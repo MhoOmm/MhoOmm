@@ -53,7 +53,7 @@ const omm = {
     gaming    : ["souls-like", "open-world", "FPS"],
   },
 
-  available   : true,  // → hire me?
+  available   : false
 };
 ```
 
@@ -138,6 +138,6 @@ const omm = {
 ╚══════════════════════════════════════════════════════╝
 ```
 
-*Coding to EDM drops since 2023 · 808s and build logs*
+*Coding to Hip-Hop beats since 2023*
 
 </div>
