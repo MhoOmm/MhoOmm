@@ -122,7 +122,7 @@ const omm = {
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MhoOmm&theme=dark&hide_border=true&background=0D0D0D&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhoOmm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=7F77DD" />
-<img height="165" src="https://leetcard.jacoblin.cool/Mhoo?ext=heatmap&theme=dark" />
+<img height="165" src="https://leetcard.jacoblin.cool/MhoOmm?ext=heatmap&theme=dark" />
 
 </div>
 
