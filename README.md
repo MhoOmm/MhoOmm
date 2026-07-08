@@ -29,7 +29,7 @@
 const omm = {
   role        : "Full-Stack Engineer × ML Practitioner",
   university  : "KIIT Deemed University, Bhubaneswar — B.Tech CSE '27",
-  cgpa        : 9.34,
+  cgpa        : 9.39,
 
   languages   : ["C++", "JavaScript", "Python", "Java"],
 
